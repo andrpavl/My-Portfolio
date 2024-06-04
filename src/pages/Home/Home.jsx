@@ -21,10 +21,9 @@ const Home = () => {
 				console.log(error);
 			}
 		};
-		// getQuote();
 		const interval = setInterval(() => {
 			getQuote();
-		}, 4000); 
+		}, 5000); 
 
 		return () => clearInterval(interval);
 	}, []);
