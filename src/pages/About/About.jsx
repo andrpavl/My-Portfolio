@@ -13,7 +13,7 @@ export const About = () => {
 				myself. I am {year} years old. I was born and raised in the most
 				charming country in the world - Ukraine. But more than 10 years ago, my
 				life path led me to an equally charming Denmark, where I am living now
-				together with my family.
+				together with my family. And here you can find some information about me and my skills.
 			</p>
 			<h3>My education:</h3>
 			<ul>
@@ -52,7 +52,7 @@ export const About = () => {
 						))}
 					</ul>
 				</div>
-				<div>
+				<div data-aos="fade-right">
 					<h3>Soft skills:</h3>
 					<ul>
 						<li>Analytical</li>

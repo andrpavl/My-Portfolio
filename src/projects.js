@@ -4,6 +4,7 @@ import miminoImg from "./images/mimino.png";
 import moviesImg from "./images/movies.png";
 import phonebookImg from "./images/phonebook.png";
 import yogamindImg from "./images/yogamind.png";
+import todolist from "./images/todolist.png"
 
 export const projects = [
 	{
@@ -58,5 +59,14 @@ export const projects = [
 			"A simple app, which gets a list of trending movies, and has an option of searching of movies. ",
 		github: "https://github.com/andrpavl/goit-react-hw-05-movies",
 		livepage: "https://andrpavl.github.io/goit-react-hw-05-movies",
+	},
+	{
+		id: 7,
+		image: todolist,
+		name: "Todo List",
+		description:
+			"This is a training project. Creating, deleting of todos. This app is created with React, styling - TailwindCSS, database - Firebase.",
+		github: "https://github.com/andrpavl/To-do-List",
+		livepage: "https://andrpavl.github.io/To-do-List/",
 	},
 ];
