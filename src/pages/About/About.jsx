@@ -44,7 +44,7 @@ export const About = () => {
           occup={'Frontend Developer'}
         />
         <EduItem
-          companyName={'HackTourFuture Denmark'}
+          companyName={'HackYourFuture Denmark'}
           companyLink={'https://www.hackyourfuture.dk/'}
           date={'2024-present'}
           occup={'FullStack Developer'}
