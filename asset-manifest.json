@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.aaa816cc.css",
-    "main.js": "/My-Portfolio/static/js/main.94b719c0.js",
+    "main.js": "/My-Portfolio/static/js/main.193af452.js",
     "static/media/certificate.pdf": "/My-Portfolio/static/media/certificate.c7fe26e6aaad53ab2858.pdf",
     "static/media/mimino.png": "/My-Portfolio/static/media/mimino.3e6997ded4cb2cd75707.png",
     "static/media/webstudio.png": "/My-Portfolio/static/media/webstudio.f2a660112f1ac2400ee0.png",
@@ -10,16 +10,16 @@
     "static/media/yogamind.png": "/My-Portfolio/static/media/yogamind.e3858d832adc9638ad99.png",
     "static/media/certificate_img.png": "/My-Portfolio/static/media/certificate_img.2ecea0deb1fdefa36881.png",
     "static/media/cv_img.png": "/My-Portfolio/static/media/cv_img.28b0c7c943d33895abfd.png",
-    "static/media/cv.pdf": "/My-Portfolio/static/media/cv.d015a551b141e0da0645.pdf",
+    "static/media/cv.pdf": "/My-Portfolio/static/media/cv.ad97f21fddffa4a19624.pdf",
     "static/media/Hello.jpg": "/My-Portfolio/static/media/Hello.dd7221c8b4ccae981b0f.jpg",
     "static/media/movies.png": "/My-Portfolio/static/media/movies.9246fcb8863fa943eb34.png",
     "static/media/phonebook.png": "/My-Portfolio/static/media/phonebook.99bbfd70e876d5ee7257.png",
     "index.html": "/My-Portfolio/index.html",
     "main.aaa816cc.css.map": "/My-Portfolio/static/css/main.aaa816cc.css.map",
-    "main.94b719c0.js.map": "/My-Portfolio/static/js/main.94b719c0.js.map"
+    "main.193af452.js.map": "/My-Portfolio/static/js/main.193af452.js.map"
   },
   "entrypoints": [
     "static/css/main.aaa816cc.css",
-    "static/js/main.94b719c0.js"
+    "static/js/main.193af452.js"
   ]
 }
