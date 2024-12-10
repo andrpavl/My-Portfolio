@@ -65,7 +65,7 @@ export const projects = [
 		image: todolist,
 		name: "Todo List",
 		description:
-			"This is a training project. Creating, deleting of todos. This app is created with React, styling - TailwindCSS, database - Firebase.",
+			"This is a training project. Adding, deleting of todos. This app is created with React, styling - TailwindCSS, database - Firebase.",
 		github: "https://github.com/andrpavl/To-do-List",
 		livepage: "https://andrpavl.github.io/To-do-List/",
 	},

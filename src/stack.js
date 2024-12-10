@@ -10,5 +10,6 @@ const stack = [
   'Express',
   'MongoDB',
   'TailwindCSS',
+  'Git',
 ];
 export default stack;
