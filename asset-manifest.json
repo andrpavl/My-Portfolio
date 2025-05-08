@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.aaa816cc.css",
-    "main.js": "/My-Portfolio/static/js/main.8c36fe59.js",
+    "main.js": "/My-Portfolio/static/js/main.d78ef147.js",
     "static/media/certificate.pdf": "/My-Portfolio/static/media/certificate.c7fe26e6aaad53ab2858.pdf",
     "static/media/mimino.png": "/My-Portfolio/static/media/mimino.3e6997ded4cb2cd75707.png",
     "static/media/webstudio.png": "/My-Portfolio/static/media/webstudio.f2a660112f1ac2400ee0.png",
     "static/media/bookshelf.png": "/My-Portfolio/static/media/bookshelf.5f621a8db3a4a74871d4.png",
     "static/media/todolist.png": "/My-Portfolio/static/media/todolist.b172185907573266d47b.png",
     "static/media/yogamind.png": "/My-Portfolio/static/media/yogamind.e3858d832adc9638ad99.png",
+    "static/media/quiz-app.png": "/My-Portfolio/static/media/quiz-app.8472f90348e5130712d1.png",
     "static/media/cv_img.png": "/My-Portfolio/static/media/cv_img.b2bab19fd608b376ef71.png",
     "static/media/certificate_img.png": "/My-Portfolio/static/media/certificate_img.2ecea0deb1fdefa36881.png",
     "static/media/cv.pdf": "/My-Portfolio/static/media/cv.84a96b532efaae5d2608.pdf",
@@ -16,10 +17,10 @@
     "static/media/phonebook.png": "/My-Portfolio/static/media/phonebook.99bbfd70e876d5ee7257.png",
     "index.html": "/My-Portfolio/index.html",
     "main.aaa816cc.css.map": "/My-Portfolio/static/css/main.aaa816cc.css.map",
-    "main.8c36fe59.js.map": "/My-Portfolio/static/js/main.8c36fe59.js.map"
+    "main.d78ef147.js.map": "/My-Portfolio/static/js/main.d78ef147.js.map"
   },
   "entrypoints": [
     "static/css/main.aaa816cc.css",
-    "static/js/main.8c36fe59.js"
+    "static/js/main.d78ef147.js"
   ]
 }
